@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalkumardecentvro/foodscanner-server.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalkumardecentvro/foodscanner-server/issues"
+  },
+  "homepage": "https://github.com/vishalkumardecentvro/foodscanner-server#readme",
   "dependencies": {
     "express": "^4.18.2",
     "mysql": "^2.18.1"
